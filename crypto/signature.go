@@ -18,6 +18,7 @@ import (
 )
 
 var allowedHashes = []crypto.Hash{
+	crypto.SHA1,
 	crypto.SHA224,
 	crypto.SHA256,
 	crypto.SHA384,
