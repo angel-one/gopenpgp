@@ -343,6 +343,8 @@ func asymmetricDecryptStream(
 		},
 	}
 
+	config.InsecureAllowUnauthenticatedMessages = true
+
 	if verificationContext != nil {
 		config.KnownNotations = map[string]bool{constants.SignatureContextName: true}
 	}
