@@ -4,7 +4,7 @@
 package helper
 
 import (
-	"github.com/ProtonMail/gopenpgp/v2/crypto"
+	"github.com/angel-one/gopenpgp/v2/crypto"
 	"github.com/pkg/errors"
 )
 

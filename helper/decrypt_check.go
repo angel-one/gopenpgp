@@ -7,7 +7,7 @@ import (
 	"io"
 
 	"github.com/ProtonMail/go-crypto/openpgp/packet"
-	"github.com/ProtonMail/gopenpgp/v2/crypto"
+	"github.com/angel-one/gopenpgp/v2/crypto"
 	"github.com/pkg/errors"
 )
 

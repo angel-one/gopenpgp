@@ -14,7 +14,7 @@ import (
 	"github.com/ProtonMail/go-crypto/openpgp/packet"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ProtonMail/gopenpgp/v2/constants"
+	"github.com/angel-one/gopenpgp/v2/constants"
 )
 
 const testMessage = "Hello world!"
