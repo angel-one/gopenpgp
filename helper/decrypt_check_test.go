@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/ProtonMail/gopenpgp/v2/crypto"
+	"github.com/angel-one/gopenpgp/v2/crypto"
 )
 
 const testQuickCheckSessionKey = `038c9cb9d408074e36bac22c6b90973082f86e5b01f38b787da3927000365a81`

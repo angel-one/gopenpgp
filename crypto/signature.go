@@ -13,8 +13,8 @@ import (
 	"github.com/ProtonMail/go-crypto/openpgp/packet"
 	"github.com/pkg/errors"
 
-	"github.com/ProtonMail/gopenpgp/v2/constants"
-	"github.com/ProtonMail/gopenpgp/v2/internal"
+	"github.com/angel-one/gopenpgp/v2/constants"
+	"github.com/angel-one/gopenpgp/v2/internal"
 )
 
 var allowedHashes = []crypto.Hash{

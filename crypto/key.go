@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ProtonMail/gopenpgp/v2/armor"
-	"github.com/ProtonMail/gopenpgp/v2/constants"
+	"github.com/angel-one/gopenpgp/v2/armor"
+	"github.com/angel-one/gopenpgp/v2/constants"
 	"github.com/pkg/errors"
 
 	openpgp "github.com/ProtonMail/go-crypto/openpgp"

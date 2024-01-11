@@ -8,8 +8,8 @@ import (
 	"io/ioutil"
 
 	"github.com/ProtonMail/go-crypto/openpgp/armor"
-	"github.com/ProtonMail/gopenpgp/v2/constants"
-	"github.com/ProtonMail/gopenpgp/v2/internal"
+	"github.com/angel-one/gopenpgp/v2/constants"
+	"github.com/angel-one/gopenpgp/v2/internal"
 	"github.com/pkg/errors"
 )
 
