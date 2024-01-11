@@ -4,6 +4,11 @@
 GopenPGP is a high-level OpenPGP library built on top of [a fork of the golang
 crypto library](https://github.com/ProtonMail/crypto).
 
+**Reason For Fork**
+We have provided the support for below things (as few merchants or partners are using the old implementation still)
+- Adding SHA1 support
+- AllowInsecureMessage to be decrypted
+
 **Table of Contents**
 
 <!-- TOC depthFrom:2 -->
